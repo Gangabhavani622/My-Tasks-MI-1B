@@ -1,0 +1,26 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #000000;
+  border: none;
+  border-radius: 5px;
+  padding-top: 6px;
+  align-items: center;
+}
+
+.task-item {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.category-btn {
+  color: #1a171d;
+  padding: 4px;
+
+  border: none;
+  border-radius: 5px;
+  background-color: #f3aa4e;
+}

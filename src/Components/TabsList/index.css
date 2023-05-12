@@ -1,0 +1,11 @@
+.btn {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  color: #f1f5f9;
+  margin-right: 4px;
+  border-radius: 8px;
+}
+
+.btn-bg {
+  background-color: #f3aa4e;
+}
